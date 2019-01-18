@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.miku.test",
+    "sha256_cert_fingerprints":
+    ["41:33:10:77:F9:14:BA:13:4B:3C:E0:A4:FB:B3:8B:6F:9B:3D:6F:48:94:5D:47:63:B1:A2:B1:79:91:C7:07:20"]
+  }
+}]
