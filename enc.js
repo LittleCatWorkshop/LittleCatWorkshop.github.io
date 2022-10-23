@@ -274,16 +274,16 @@
                 p = (p = enc(String(p))).substring(0, 10),
                 p = enc(p),
                 f = m.getDay() + 11397,
-                b = "https://z1.m1907.cn/api/v/?z=".concat(p, "&jx=").concat(word);
+                b = "https://a1.m1907.top:404/api/v/?z=".concat(p, "&jx=").concat(word);
                 b += "&s1ig=".concat(f);
             return b;
         }
 
         function getHotUrl() {
-            return "https://z1.m1907.cn/api/v/";
+            return "https://a1.m1907.top:404/api/v/";
         }
 
         function getSearchPromptUrl(word) {
-            return "https://z1.m1907.cn/api/search_prompt?k=".concat(word);
+            return "https://a1.m1907.top:404/api/search_prompt?k=".concat(word);
         }
 
