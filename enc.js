@@ -274,16 +274,16 @@
                 p = (p = enc(String(p))).substring(0, 10),
                 p = enc(p),
                 f = m.getDay() + 11397,
-                b = "https://m1-a1.cloud.nnpp.vip:2223/api/v/?z=".concat(p, "&jx=").concat(word);
+                b = "https://m1-a1.cloud.vving.vip:2223/api/v/?z=".concat(p, "&jx=").concat(word);
                 b += "&s1ig=".concat(f);
             return b;
         }
 
         function getHotUrl() {
-            return "https://m1-a1.cloud.nnpp.vip:2223/api/v/";
+            return "https://m1-a1.cloud.vving.vip:2223/api/v/";
         }
 
         function getSearchPromptUrl(word) {
-            return "https://m1-a1.cloud.nnpp.vip:2223/api/search_prompt?k=".concat(word);
+            return "https://m1-a1.cloud.vving.vip:2223/api/search_prompt?k=".concat(word);
         }
 
